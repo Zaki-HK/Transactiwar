@@ -1,4 +1,4 @@
-# Secure Money Transfer Web Application
+# Transactiwar: Secure Money Transfer
 
 A secure web application for money transfers and user profiles, built **without any third-party security frameworks** - all security mechanisms are implemented from scratch to demonstrate understanding of each control.
 
